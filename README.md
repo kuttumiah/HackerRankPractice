@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/kuttumiah"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to HackerRank practice problems
-This repository contains 21 solutions to HackerRank practice problems with Shell and SQL (MySQL).
+This repository contains 22 solutions to HackerRank practice problems with Shell and SQL (MySQL).
 
 Updated daily :smiley: If you found it helpful please press :star:.
 
@@ -35,6 +35,7 @@ Updated daily :smiley: If you found it helpful please press :star:.
         - Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/01.%20Basic%20Select/020._Employee_Salaries.sql) | Score: 10
     02. Advanced Select
         - Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/02.%20Advanced%20Select/001._Type_of_Triangle.sql) | Score: 20
+        - The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/02.%20Advanced%20Select/002._The_PADS.sql) | Score: 30
     03. Aggregation
     04. Basic Join
     05. Advanced Join
