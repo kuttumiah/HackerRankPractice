@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/kuttumiah"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to HackerRank practice problems
-This repository contains 28 solutions to HackerRank practice problems with Shell and SQL (MySQL).
+This repository contains 29 solutions to HackerRank practice problems with Shell and SQL (MySQL).
 
 Updated daily :smiley:. If you found it helpful please press :star:.
 
@@ -43,6 +43,7 @@ Updated daily :smiley:. If you found it helpful please press :star:.
         - Revising Aggregations - The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/001._Revising_Aggregations_-_The_Count_Function.sql) | Score: 10
         - Revising Aggregations - The Sum Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/002._Revising_Aggregations_-_The_Sum_Function.sql) | Score: 10
         - Revising Aggregations - Averages | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/003._Revising_Aggregations_-_Averages.sql) | Score: 10
+        - Average Population | [Problem](https://www.hackerrank.com/challenges/average-population/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/004._Average_Population.sql) | Score: 10
     04. Basic Join
     05. Advanced Join
     06. Alternative Queries
