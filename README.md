@@ -3,7 +3,7 @@
 # Solutions to HackerRank practice problems
 This repository contains 25 solutions to HackerRank practice problems with Shell and SQL (MySQL).
 
-Updated daily :smiley: If you found it helpful please press :star:.
+Updated daily :smiley:. If you found it helpful please press :star:.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/kuttumiah/HackerRankPractice.svg)](https://github.com/kuttumiah/HackerRankPractice) 
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/kuttumiah/HackerRankPractice.svg)](https://github.com/kuttumiah/HackerRankPractice)
