@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/kuttumiah"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to HackerRank practice problems
-This repository contains 23 solutions to HackerRank practice problems with Shell and SQL (MySQL).
+This repository contains 24 solutions to HackerRank practice problems with Shell and SQL (MySQL).
 
 Updated daily :smiley: If you found it helpful please press :star:.
 
@@ -37,6 +37,7 @@ Updated daily :smiley: If you found it helpful please press :star:.
         - Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/02.%20Advanced%20Select/001._Type_of_Triangle.sql) | Score: 20
         - The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/02.%20Advanced%20Select/002._The_PADS.sql) | Score: 30
         - Occupations | [Problem](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/02.%20Advanced%20Select/003._Occupations.sql) | Score: 30
+        - Binary Tree Nodes | [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/02.%20Advanced%20Select/004._Binary_Tree_Nodes.sql) | Score: 30
     03. Aggregation
     04. Basic Join
     05. Advanced Join
