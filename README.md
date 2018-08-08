@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/kuttumiah"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to HackerRank practice problems
-This repository contains 25 solutions to HackerRank practice problems with Shell and SQL (MySQL).
+This repository contains 26 solutions to HackerRank practice problems with Shell and SQL (MySQL).
 
 Updated daily :smiley:. If you found it helpful please press :star:.
 
@@ -40,6 +40,7 @@ Updated daily :smiley:. If you found it helpful please press :star:.
         - Binary Tree Nodes | [Problem](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/02.%20Advanced%20Select/004._Binary_Tree_Nodes.sql) | Score: 30
         - New Companies | [Problem](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/02.%20Advanced%20Select/005._New_Companies.sql) | Score: 30
     03. Aggregation
+        - Revising Aggregations - The Count Function | [Problem](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/001._Revising_Aggregations_-_The_Count_Function.sql) | Score: 10
     04. Basic Join
     05. Advanced Join
     06. Alternative Queries
