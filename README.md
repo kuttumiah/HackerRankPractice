@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/kuttumiah"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to HackerRank practice problems
-This repository contains 32 solutions to HackerRank practice problems with Shell and SQL (MySQL).
+This repository contains 39 solutions to HackerRank practice problems with Shell and SQL (MySQL).
 
 Updated daily :smiley:. If you found it helpful please press :star:.
 
@@ -47,6 +47,13 @@ Updated daily :smiley:. If you found it helpful please press :star:.
         - Japan Population | [Problem](https://www.hackerrank.com/challenges/japan-population/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/005._Japan_Population.sql) | Score: 10
         - Population Density Difference | [Problem](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/006._Population_Density_Difference.sql) | Score: 10
         - The Blunder | [Problem](https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/007._The_Blunder.sql) | Score: 15
+        - Top Earners | [Problem](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/008._Top_Earners.sql) | Score: 20
+        - Weather Observation Station 2 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/009._Weather_Observation_Station_2.sql) | Score: 15
+        - Weather Observation Station 13 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/010._Weather_Observation_Station_13.sql) | Score: 10
+        - Weather Observation Station 14 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/011._Weather_Observation_Station_14.sql) | Score: 10
+        - Weather Observation Station 15 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/012._Weather_Observation_Station_15.sql) | Score: 15
+        - Weather Observation Station 16 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/013._Weather_Observation_Station_16.sql) | Score: 10
+        - Weather Observation Station 17 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/014._Weather_Observation_Station_17.sql) | Score: 15
     04. Basic Join
     05. Advanced Join
     06. Alternative Queries
