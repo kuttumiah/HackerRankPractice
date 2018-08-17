@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/kuttumiah"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to HackerRank practice problems
-This repository contains 39 solutions to HackerRank practice problems with Shell and SQL (MySQL).
+This repository contains 42 solutions to HackerRank practice problems with Shell and SQL (MySQL).
 
 Updated daily :smiley:. If you found it helpful please press :star:.
 
@@ -54,6 +54,9 @@ Updated daily :smiley:. If you found it helpful please press :star:.
         - Weather Observation Station 15 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/012._Weather_Observation_Station_15.sql) | Score: 15
         - Weather Observation Station 16 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/013._Weather_Observation_Station_16.sql) | Score: 10
         - Weather Observation Station 17 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/014._Weather_Observation_Station_17.sql) | Score: 15
+        - Weather Observation Station 18 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/015._Weather_Observation_Station_18.sql) | Score: 25
+        - Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/016._Weather_Observation_Station_19.sql) | Score: 30
+        - Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/017._Weather_Observation_Station_20.sql) | Score: 40
     04. Basic Join
     05. Advanced Join
     06. Alternative Queries
