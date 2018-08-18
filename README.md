@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/kuttumiah"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to HackerRank practice problems
-This repository contains 42 solutions to HackerRank practice problems with Shell and SQL (MySQL).
+This repository contains 45 solutions to HackerRank practice problems with Shell and SQL (MySQL).
 
 Updated daily :smiley:. If you found it helpful please press :star:.
 
@@ -58,6 +58,9 @@ Updated daily :smiley:. If you found it helpful please press :star:.
         - Weather Observation Station 19 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/016._Weather_Observation_Station_19.sql) | Score: 30
         - Weather Observation Station 20 | [Problem](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/03.%20Aggregation/017._Weather_Observation_Station_20.sql) | Score: 40
     04. Basic Join
+        - Asian Population | [Problem](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/04.%20Basic%20Join/001._Asian_Population.sql) | Score: 10
+        - African Cities | [Problem](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/04.%20Basic%20Join/002._African_Cities.sql) | Score: 10
+        - Average Population of Each Continent | [Problem](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/04.%20Basic%20Join/003._Average_Population_of_Each_Continent.sql) | Score: 10
     05. Advanced Join
     06. Alternative Queries
 
