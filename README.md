@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/kuttumiah"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to HackerRank practice problems
-This repository contains 45 solutions to HackerRank practice problems with Shell and SQL (MySQL).
+This repository contains 52 solutions to HackerRank practice problems with Python 3 and SQL (MySQL).
 
 Updated daily :smiley:. If you found it helpful please press :star:.
 
@@ -11,6 +11,16 @@ Updated daily :smiley:. If you found it helpful please press :star:.
 [![GitHub stars](https://img.shields.io/github/stars/kuttumiah/HackerRankPractice.svg)](https://github.com/kuttumiah/HackerRankPractice)
 [![GitHub license](https://img.shields.io/github/license/kuttumiah/HackerRankPractice.svg)](https://github.com/kuttumiah/HackerRankPractice)
 
+- Python
+    01. Introduction
+        - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/Python/01.%20Introduction/001._Say_Hello,_World!_With_Python.py) | Score: 5
+        - Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/Python/01.%20Introduction/002._Python_If-Else.py) | Score: 10
+        - Arithmetic Operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/Python/01.%20Introduction/003._Arithmetic_Operators.py) | Score: 10
+        - Python Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/Python/01.%20Introduction/004._Python_Division.py) | Score: 10
+        - Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/Python/01.%20Introduction/005._Loops.py) | Score: 10
+        - Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/Python/01.%20Introduction/006._Write_a_function.py) | Score: 10
+        - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/Python/01.%20Introduction/007._Print_Function.py) | Score: 20
+    02. Basic Data Types
 - SQL
     01. Basic Select
         - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/01.%20Basic%20Select/001._Revising_the_Select_Query_I.sql) | Score: 10
