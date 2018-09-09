@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.hackerrank.com/kuttumiah"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to HackerRank practice problems
-This repository contains 53 solutions to HackerRank practice problems with Python 3 and SQL (MySQL).
+This repository contains 54 solutions to HackerRank practice problems with Python 3 and SQL (MySQL).
 
 Updated daily :smiley:. If you found it helpful please press :star:.
 
@@ -22,6 +22,7 @@ Updated daily :smiley:. If you found it helpful please press :star:.
         - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/Python/01.%20Introduction/007._Print_Function.py) | Score: 20
     02. Basic Data Types
         - List Comprehensions | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/Python/02.%20Basic%20Data%20Types/001._List_Comprehensions.py) | Score: 10
+        - Find the Runner-Up Score! | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/Python/02.%20Basic%20Data%20Types/002._Find_the_Runner-Up_Score!.py) | Score: 10
 - SQL
     01. Basic Select
         - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/kuttumiah/HackerRankPractice/blob/master/SQL/01.%20Basic%20Select/001._Revising_the_Select_Query_I.sql) | Score: 10
